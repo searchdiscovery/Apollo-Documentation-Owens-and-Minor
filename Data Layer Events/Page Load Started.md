@@ -12,14 +12,12 @@ dataLayer.push({
     "page_data": {
         "breadcrumb": "<breadcrumb>",
         "country": "<country>",
-        "day_of_week": "<day_of_week>",
         "language": "<language>",
         "name": "<name>",
         "page_location": "<page_location>",
         "page_path": "<page_path>",
         "page_title": "<page_title>",
         "type": "<type>",
-        "weekday_or_weekend": "<weekday_or_weekend>"
     }
 });
 ```
